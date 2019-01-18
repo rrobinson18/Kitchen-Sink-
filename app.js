@@ -1,15 +1,14 @@
 //My Name
 var myName = "Rakesha McIntyre"
-console.log(myName);
+
 
 // Number of US states
 const numberOfStates = 50;
-console.log(numberOfStates);
 
 //Add problem
 var sum = 5 + 4;
-console.log(sum);
 
+//Greeting
 function sayHello()
 {
 alert("Hello World");
@@ -18,14 +17,14 @@ sayHello();
 
 
 
-
+//Array of Favorite Vegetables
 let favVeggies = ['green beans', 'tomatoes', 'corn', 'potatoes'];
 
 for (let i = 0; i < favVeggies.length; ++i) {
     console.log(favVeggies[i]);
 }
 
-
+//Age check. Are you 21?
 function checkAge(name, age) {
     if (age < 21) {
         console.log('Sorry ' + name + ', you arent old enough to view this page!');
