@@ -1,7 +1,7 @@
-#JavaScript Kitchen Sink
+# JavaScript Kitchen Sink
 The objective of this lab assignment is to practice using the fundamentals of JavaScript that were explored in lecture.
 
-##Required
+## Required
 Create a new project folder and connect it to a GitHub repo. Copy this lab into a README.md file.
 Create an index.html file and an app.js file and link the two together with a script tag.
 Create a variable that contains your name as a value.
